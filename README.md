@@ -26,4 +26,4 @@ O protótipo interativo e navegável da interface foi gerado via Lovable e pode 
 - Vite
 
 ---
-*Desenvolvido pela equipe de Engenharia de Software: Pedro Gouveia, Antony Gabriel, Lucas Lima, Cauã Viana e Willamis Dos Santos.*
+*Desenvolvido pela equipe de Engenharia de Software: Pedro Gouveia, Antony Gabriel, Lucas Lima, Cauã Viana, João Manoel e Willamis Dos Santos.*
